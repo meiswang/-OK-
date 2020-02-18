@@ -1,0 +1,172 @@
+闲来无趣又吹风，一波更比一波风。
+                  --作者:Mecr3y 联系方式:Mecr3y@foxmail.com
+                              初恋无悔。
+===================================================================
+http://www.chpi.com.cn/admin/index.asp admin admin
+
+http://www.dlgty.com/admin/Login.asp 1|cc5bf2d2fbeb355b|admin|
+
+http://www.jiangkuang.com/Count/admin.asp  admin
+
+http://www.jiufengcn.net/qy_admin/Login.asp  
+04f1dbc40bc61f77 zxc123 
+8f2c97023e6cae20 jiufengcn 
+532228b1debb7ff8 admin 
+
+http://www.biyanqizhu.cn/qiju123/qijudl.asp  uid592  wszzc1912
+
+http://www.cs-phist.cn/admin/login.asp  uid102  pwd102
+
+http://www.lenkeng.hk/china/admin/eWebEditor/admin_login.asp admin admin
+
+http://www.hongyugz.com/adminys/Admin_login.asp  admin  admin
+
+http://cncyd.com.cn/admin/login.asp   uid33  pwd33
+
+http://trendtronic.com.cn/uploadfile/20110209152107510.asa  密码：123456
+
+http://www.ofunjiaju.com/czk_admin/  
+username1:2012xte168
+password:2012xte168
+username2:czk1025
+password:666888
+
+http://hnjxyjh.com/admin/diy.asp
+http://hnjxyjh.com/Admin/Admin_login.asp  3389
+admin_name:admin
+admin_password:0605b69bf2f76cdb
+admin_name:hnjxyjh
+admin_password:0baaf37a1e37842e
+
+http://hzhgsb.cn/admin/login.asp    admin  admin
+
+http://zubus.net/admin/eWebEditor/admin/default.asp
+sUsername = "admin"
+sPassword = "1892655412"
+
+http://cqsplf.com/admin/login.asp  
+admin	147456 或者'or' 1='1
+
+http://toollg.cn/ProductShow.aspx?nid=30  有注入点
+http://toollg.cn/useradmin/login.aspx
+a_UserName内容:gggiqnyso
+a_PassWord内容:FB9CD2B82948E9D9B1D49058F8B328D1
+密码:gggiqnyso592
+
+http://dream-elec.com/admin/upload/DIY.asp  小马
+http://dream-elec.com/admin/upload/yy.asp  大马 Wwj199803
+
+http://www.pyups.com/manage/login.asp  admin admin888
+
+http://sunyo88.com/manager/index.asp  admin 2131999
+
+http://www.thgcjs.com/editor/admin_login.asp  admin admin
+
+cnhtt.cn 3389
+
+http://pht-bj.com/qiju123/qijudl.asp
+uid738|zzcnb666|
+
+http://haiershwx.com/jycf/admin/  jm  jm123  
+http://haiershwx.com/jnews-ck.asp?newsid=282
+
+http://b3g.com.cn/  3389
+
+国外卖枪网站
+https://www.gunshack.com/admin
+
+http://www.wanh.cc/manage/Ms_Login.asp admin admin
+
+http://www.kaikaichina.com/admin/ admin  youboy10
+
+http://www.songsongcn.com/admin/Admin_login.asp admin  youboy10
+
+http://www.swcgq.com/admin/Admin_login.asp admin yongda2014
+
+http://www.nibianbao.cn/admin/Admin_Index.asp admin youboy10
+
+http://www.wzwansen.com/admin/Admin_login.asp admin wansen2014
+
+http://www.tzjsjc.cn/admin/login.htm admin admind
+
+http://www.gzjhzg.com/manager/Login.asp jian0shui jayCS2011
+username内容:gzjhzg
+password内容:f356ab22e23cdb6c
+
+www.welllinks.com.cn 3389
+
+http://www.gzdhsq.com/manageus.asp?id=149 注入点
+http://www.gzdhsq.com/weiht/login.asp
+username内容:jun
+password内容:df175f846e208b30 0758junwei
+username内容:wei
+password内容:df175f846e208b30 0758junwei
+
+http://rcjx.cn/system/index.asp
+username内容:admin
+password内容:xiaoqiang
+username内容:rcjx
+password内容:123abc 
+
+http://sfsjx.org/admin/Login.asp  注入中转
+username内容:panzhong
+password内容:a23578284113b15b 7758258
+username内容:zxw
+password内容:661a44585ddd96a0
+
+http://hedagifts.com/ 后台盲注测试
+
+szyongdao.com:54287 可远程
+http://szyongdao.com/
+http://szyongdao.com/uploadsave.asp 上传点
+http://szyongdao.com/UploadFiles/DIY.asp 小马
+http://szyongdao.com/UploadFiles/dama.asp 大马 heroes
+http://szyongdao.com/dama.asp         大马 无密码
+
+http://jl-quickprint.com/admin/Login.asp admin 13925228918
+
+http://xahsmy.com/weblogin/login.asp
+
+http://ensong.net/  可以试试Cookie注入
+http://ensong.net/webadmin/
+
+http://zjtally.com/xwzx/login.asp?id=9 admin admin7280
+
+www.gzprwl.com 3389
+
+http://www.gz-yfzy.com/Search.asp 搜索注入 3389
+http://www.gz-yfzy.com/system/ 后台
+admin.gz-yfzy.com 后台
+
+http://www.gzguanxin.com.cn/shownews.asp?id=308 中转
+username内容:admin
+password内容:91f9217f284e3bb1
+
+http://www.mei-hua.net/admin/admin_login.asp admin888 aa111111
+
+http://deligao.net/Admin/Admin_login.asp
+admin888  admin888
+magic  23382406
+Joan  703121
+
+http://h-yuan.net/admin/admin_login.asp  admin888  admin888
+
+http://chunlinxuan.com/Admin/Admin_login.asp
+admin888  admin888
+ZHIYE  830503
+
+http://jindixuan.com/Admin/Admin_login.asp
+jindixuan  jindixuan
+
+http://aodino.com/admin/index.asp  test  eryaaodino
+
+http://www.dongwei-f.com/pro.asp 搜索框注入
+http://www.dongwei-f.com/admin_files/supperlogin.asp 后台
+
+(可用PHP测试)
+http://www.hkhcsj.com/upload_files/202021221043971.asp 小马
+http://www.hkhcsj.com/upload_files/dere.asp heroes 一句话
+http://www.hkhcsj.com/upload_files/daconn.asp  W!@#$%^&332
+http://www.hkhcsj.com/upload_files/gb2321.php  B1ac7Sky
+
+http://fsjinhui.com/admin/admin_login.asp  admin shundeqc
